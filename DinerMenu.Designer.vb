@@ -37,7 +37,7 @@ Partial Class DinerMenu
         Me.SaladButton.Location = New System.Drawing.Point(147, 367)
         Me.SaladButton.Name = "SaladButton"
         Me.SaladButton.Size = New System.Drawing.Size(129, 71)
-        Me.SaladButton.TabIndex = 0
+        Me.SaladButton.TabIndex = 1
         Me.SaladButton.Text = "Salad"
         Me.ToolTip1.SetToolTip(Me.SaladButton, "Displays the Salad Description")
         Me.SaladButton.UseVisualStyleBackColor = True
@@ -47,7 +47,7 @@ Partial Class DinerMenu
         Me.FishButton.Location = New System.Drawing.Point(282, 367)
         Me.FishButton.Name = "FishButton"
         Me.FishButton.Size = New System.Drawing.Size(129, 71)
-        Me.FishButton.TabIndex = 1
+        Me.FishButton.TabIndex = 2
         Me.FishButton.Text = "Fish"
         Me.ToolTip1.SetToolTip(Me.FishButton, "Displays the Fish Special")
         Me.FishButton.UseVisualStyleBackColor = True
@@ -57,7 +57,7 @@ Partial Class DinerMenu
         Me.SoupButton.Location = New System.Drawing.Point(12, 367)
         Me.SoupButton.Name = "SoupButton"
         Me.SoupButton.Size = New System.Drawing.Size(129, 71)
-        Me.SoupButton.TabIndex = 2
+        Me.SoupButton.TabIndex = 0
         Me.SoupButton.Text = "Soup"
         Me.ToolTip1.SetToolTip(Me.SoupButton, "Displays the Soup Description")
         Me.SoupButton.UseVisualStyleBackColor = True
